@@ -3,10 +3,13 @@
 <TheBench>
 <Artist>
   <name>
+    inser a person's name here
     </name>
   <bio>
+    insert data here
     </bio>
   <medium>
+    and here
     </medium>
   <showcase>
     </showcase>
@@ -38,8 +41,8 @@
 </Art>
 
 <Event>
-  <location>
-  <date>
+  <location> </location>
+  <date>  </date> <!-- and close all the rest of tags -->
   <time>
   <artists>
   <misc>
