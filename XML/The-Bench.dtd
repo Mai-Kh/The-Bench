@@ -22,7 +22,7 @@
 
 <!ELEMENT Event (location+, date+, time+, artists?, misc?)>
   <!ELEMENT location>
-  <!ELEMENT date>
+  <!ELEMENT date #PCDATA> <!-- maybe? -->
   <!ELEMENT time>
   <!ELEMENT artists>
   <!ELEMENT misc>
